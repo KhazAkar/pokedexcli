@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KhazAkar/pokedexcli/internal/pokecache"
+	"github.com/khazakar/pokedexcli/internal/pokecache"
 )
 
 func TestGetLocationAreas(t *testing.T) {
